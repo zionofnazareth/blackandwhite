@@ -4,16 +4,15 @@
   }
   
   .bg-img1 {
-    background-image: url(./newimages/Gallery_20240222_003952.png);
+    background-image: url(./saloon/Gallery_20240906_083230.png);
   }
   
-  .bg-img2 {
-    background-image: url(./newimages/Gallery_20240221_145546.png);
-  }
+ .h1{
+  font-weight: bolder;
+  color: green;
+  font-size: xx-large;
   
-  .bg-img3 {
-    background-image: url(./newimages/Gallery_20240222_003854.png);
-  }
+ }
   
   .courasel-image {
     height: 100vh;
