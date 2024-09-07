@@ -4,8 +4,15 @@
   }
   
   .bg-img1 {
-    background-image: url(./saloon/Gallery_20240906_083230.png);
+    background-image: url(./saloon/Gallery_20240906_080157.png);
+    height: 20vh;
    
+  }
+  .courasel-image {
+    height: -20vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
   }
   
  .h1{
@@ -30,7 +37,7 @@
     color:purple;
     padding: 20px;
     margin-top: 70px;
-    margin-left: -20px;
+    margin-left: -40px;
   }
   .navbar h2 {
     margin-left: 20px;
