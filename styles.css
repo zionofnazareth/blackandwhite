@@ -5,12 +5,14 @@
   
   .bg-img1 {
     background-image: url(./saloon/Gallery_20240906_083230.png);
+    margin-top: -1650px;
   }
   
  .h1{
   font-weight: bolder;
-  color: green;
+  color:purple;
   font-size: xx-large;
+  margin-top: 40px;
   
  }
   
@@ -25,9 +27,9 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    color:green;
+    color:purple;
     padding: 20px;
-    margin-top: 50px;
+    margin-top: 20px;
     margin-left: -5px;
   }
   .navbar h2 {
@@ -49,7 +51,7 @@
     line-height: 1;
     font-weight: bold;
     list-style: none;
-    color: green;
+    color: purple;
   }
   
   .navbar ul li a:hover {
@@ -148,4 +150,18 @@
     display: flex;
     background-color: #000000;
   }
+  .price{
+    margin-top: 300px;
+    font-size: 30px;
+    color: purple;
+  }
+  button {
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+}
   
