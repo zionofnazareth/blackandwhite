@@ -5,7 +5,7 @@
   
   .bg-img1 {
     background-image: url(./saloon/Gallery_20240906_083230.png);
-    margin-top: -1650px;
+   
   }
   
  .h1{
@@ -30,7 +30,7 @@
     color:purple;
     padding: 20px;
     margin-top: 20px;
-    margin-left: -5px;
+    margin-left: -10px;
   }
   .navbar h2 {
     margin-left: 20px;
